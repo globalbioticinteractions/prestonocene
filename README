@@ -1,0 +1,22 @@
+Publication date:
+2022-06-23T13:42:40-03:00
+
+
+repackage-gbif-backbone.sh:
+    hash://sha256/073ac5490252c4ccbbd4f516d391faebe62c9fde9e4d75ae870441a86c382527
+
+gbif-backbone-simple.txt.gz:
+    hash://sha256/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+    hash://sha256/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 (uncompressed)
+
+gbif-backbone-by-name.tsv.gz:
+    hash://sha256/59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2
+
+    hash://sha256/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 (uncompressed)
+
+gbif-backbone-by-id.tsv.gz:
+    hash://sha256/59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2
+
+    hash://sha256/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 (uncompressed)
+
